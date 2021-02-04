@@ -21,7 +21,4 @@ jobs:
           plugin_languages_threshold: 1%
           base: header, activity, community
           plugin_stars: yes
-          plugin_stars_limit: 4 # Limit to 4 entries
-          plugin_topics: yes
-          plugin_topics_sort: stars    # Sort by most starred topics
-          plugin_topics_mode: mastered # Display icons instead of labels
+          plugin_stars_limit: 1 # Limit to 4 entries
