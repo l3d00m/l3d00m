@@ -34,15 +34,15 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2715 Commits
+                            2719 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -153,13 +153,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.2531555471197" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="165.2531555471197" y="0" width="148.88227199392617" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="314.13542754104583" y="0" width="43.5483692385562" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="357.68379677960206" y="0" width="38.88084843883458" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="396.5646452184366" y="0" width="35.85223498149379" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="432.4168801999304" y="0" width="15.897946917212362" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="448.3148271171427" y="0" width="11.685172882857234" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.1303956123852" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="165.1303956123852" y="0" width="148.7716733313313" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="313.90206894371653" y="0" width="43.516018903412416" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="357.41808784712896" y="0" width="38.851965417503045" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="396.270053264632" y="0" width="35.825601795508064" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="432.0956550601401" y="0" width="16.227852502805483" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="448.32350756294557" y="0" width="11.676492437054481" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -223,7 +223,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>material-shell/material-shell</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.</div>
@@ -273,7 +273,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Feb 2022, 01:13:29 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0-beta</span>
+                <span>Last updated 17 Feb 2022, 01:13:31 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
